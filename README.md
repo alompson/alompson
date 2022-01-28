@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alompson
+- 👋 Hi, I’m João
 
 - Currently working on my Bachelor of Information Systems degree at <a href="https://www.icmc.usp.br/" target="_blank">University of São Paulo's Institute of Mathematics and Computer Sciences</a> and on a couple personal projects.
 
