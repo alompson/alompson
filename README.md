@@ -1,9 +1,9 @@
 - 👋 Hi, I’m João
 
-- Currently working on my Bachelor of Information Systems degree at <a href="https://www.icmc.usp.br/" target="_blank">University of São Paulo's Institute of Mathematics and Computer Sciences</a> and on a couple personal projects.
+<a href="https://www.icmc.usp.br/" target="_blank">University of São Paulo's Institute of Mathematics and Computer Sciences</a>
 
 - 👀 I’m interested in blockchain applications.
-- 🌱 I’m currently learning web stack languages for freelancing!
+- 🌱 Decentralized Identity Researcher
 
 <!---
 alompson/alompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
